@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c09668b3.css",
-    "main.js": "/static/js/main.215b4ec0.js",
+    "main.css": "/static/css/main.09c754f3.css",
+    "main.js": "/static/js/main.aa5beb70.js",
     "static/js/453.7fdf4fff.chunk.js": "/static/js/453.7fdf4fff.chunk.js",
     "static/media/Khartes_Logo_Mini.png": "/static/media/Khartes_Logo_Mini.af06e6a3ae24a23c3cba.png",
     "index.html": "/index.html",
-    "main.c09668b3.css.map": "/static/css/main.c09668b3.css.map",
-    "main.215b4ec0.js.map": "/static/js/main.215b4ec0.js.map",
+    "main.09c754f3.css.map": "/static/css/main.09c754f3.css.map",
+    "main.aa5beb70.js.map": "/static/js/main.aa5beb70.js.map",
     "453.7fdf4fff.chunk.js.map": "/static/js/453.7fdf4fff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c09668b3.css",
-    "static/js/main.215b4ec0.js"
+    "static/css/main.09c754f3.css",
+    "static/js/main.aa5beb70.js"
   ]
 }
